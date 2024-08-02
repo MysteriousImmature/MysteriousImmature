@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Operating System Developement 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on MysteriousImmature@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/his
 - ⚡ Fun facts: I'm Firefox Extension Developer https://addons.mozilla.org/en-US/firefox/user/18156826/
 
 
