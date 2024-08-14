@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MysteriousImmature
-- 👀 I’m interested in coding ,gaming , creating and exploring
+- 👀 I’m interested in Coding ,Gaming , Creating and Exploring
 - 🌱 I’m currently learning Operating System Developement 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on MysteriousImmature@gmail.com
