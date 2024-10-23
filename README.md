@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mysteriousimmature@gmail.com**
 
-- ⚡ Fun fact **Firefox addon Dev and Content Creator**
+- ⚡ Fun fact:- **Firefox addon Dev and Content Creator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
