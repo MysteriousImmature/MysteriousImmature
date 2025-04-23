@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mysteriousimmature" alt="mysteriousimmature" /></a> </p>
 
-- 🌱 I’m currently learning **Operating system, Security**
+- 🌱 I’m currently learning **OS and SECURITY**
 
 - 📫 How to reach me **mysteriousimmature@gmail.com**
 
