@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mysteriousimmature@duck.com**
 
-- ⚡ Fun fact: **"Preparation always looks like an overreaction until the disaster hits"**
+- ⚡ Fun fact: **"Amateurs hack systems, professionals hack people"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
